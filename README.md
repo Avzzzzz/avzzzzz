@@ -3,28 +3,6 @@
 
 I'm passionate about building tech that makes a difference—from web apps to machine learning models. I enjoy creating both software solutions and engaging content. My interests lie in:
 
-🧠 AI & Machine Learning
-
-🌐 Full Stack Web Development
-
-🎥 Content Creation (UGC, scripting, storytelling)
-
-📊 Data Analysis & Visualization
-
-🔧 Tools & Tech I use: Python | JavaScript | Angular | React | Spring Boot | TensorFlow | MATLAB | Git
-
-🛠️ Check out my recent projects on:
-
-E-Library Management System 📚
-
-LinkedIn Clone for Ed-Tech networking
-
-EEG-based Emotion Recognition using MATLAB
-
-Deepfake Detection with Transfer Learning
-
-Let's build, learn, and grow together 🌱
-📬 Reach out: avanthikamahe64@gmail.com
 
 
 
